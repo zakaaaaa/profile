@@ -187,7 +187,7 @@ export default function Portfolio() {
               justifyContent: 'center'
             }}>
               <img 
-                src="/IMG_1397.JPG" 
+                src="public/IMG_1397.JPG" 
                 alt="Zaka Kurnia Rahman"
                 style={{
                   width: '100%',
